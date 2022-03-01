@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF8" standalone = "yes"
+<vim new xml>
+<xml>
+<fullname>Matrosov Andrey Dmitrievich</fullname>
+<Age>28</Age>
+<Pets quantity>0</Pets quantity>
+<Future salary>100</Future salary>
+</xml>
+</vim new xml>
