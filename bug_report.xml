@@ -1,1 +1,15 @@
-
+?xml version = "1.0" encoding = "UTF8" standalone = "yes"
+<vim new xml>
+<xml>
+<Bug report> 1 </bug report>
+<Structure> Error message in login form is displayed in English </Structure>
+<Project> Login page </Project>
+<Component> Registration form </Component>
+<Bild version> 1.0.1 </Bild version>
+<Severity> Major </Severity>
+<Priority> Low </Priority>
+<Status> Open </Status>
+<Author> Matrosov.A. </Author>
+<Enviroment> MacOS 11.6.4 </Enviroment>
+</xml>
+</vim new xml>
